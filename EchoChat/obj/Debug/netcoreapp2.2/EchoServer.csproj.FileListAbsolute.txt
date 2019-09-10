@@ -1,0 +1,11 @@
+C:\Users\John\source\repos\EchoChat\EchoChat\bin\Debug\netcoreapp2.2\EchoServer.deps.json
+C:\Users\John\source\repos\EchoChat\EchoChat\bin\Debug\netcoreapp2.2\EchoServer.runtimeconfig.json
+C:\Users\John\source\repos\EchoChat\EchoChat\bin\Debug\netcoreapp2.2\EchoServer.runtimeconfig.dev.json
+C:\Users\John\source\repos\EchoChat\EchoChat\bin\Debug\netcoreapp2.2\EchoServer.dll
+C:\Users\John\source\repos\EchoChat\EchoChat\bin\Debug\netcoreapp2.2\EchoServer.pdb
+C:\Users\John\source\repos\EchoChat\EchoChat\obj\Debug\netcoreapp2.2\EchoServer.csprojAssemblyReference.cache
+C:\Users\John\source\repos\EchoChat\EchoChat\obj\Debug\netcoreapp2.2\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\EchoChat\EchoChat\obj\Debug\netcoreapp2.2\EchoServer.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\EchoChat\EchoChat\obj\Debug\netcoreapp2.2\EchoServer.AssemblyInfo.cs
+C:\Users\John\source\repos\EchoChat\EchoChat\obj\Debug\netcoreapp2.2\EchoServer.dll
+C:\Users\John\source\repos\EchoChat\EchoChat\obj\Debug\netcoreapp2.2\EchoServer.pdb
