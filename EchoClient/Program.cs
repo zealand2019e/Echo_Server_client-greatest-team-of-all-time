@@ -12,13 +12,14 @@ namespace EchoClient
             Console.ReadLine();
             TcpClient clientSocket = new TcpClient("localhost", 6789);
             Stream ns = clientSocket.GetStream();
+
+            //provides a Stream
+            StreamReader sr = new StreamReader(ns);
+            StreamWriter sw = new StreamWriter(ns);
+            sw.AutoFlush = true; // enable automatic flushing
+
             while (true)
             {
-                 //provides a Stream
-                StreamReader sr = new StreamReader(ns);
-                StreamWriter sw = new StreamWriter(ns);
-                sw.AutoFlush = true; // enable automatic flushing
-
                 string message = Console.ReadLine();
                 sw.WriteLine(message);
                 string serverAnswer = sr.ReadLine();
